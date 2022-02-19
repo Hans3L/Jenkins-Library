@@ -1,4 +1,4 @@
 // Jenkinsfile
-//@Library('Jenkins-Library') _
+//@Library('JenkinsLibrary') _
 
 JenkinsLibrary(currentBuild.getNumber())
